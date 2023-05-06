@@ -1,5 +1,5 @@
 let count = 0;
-    let counter = document.getElementById("awal");
+    let awal = document.getElementById("awal");
 
     function increment() {
       count++;
