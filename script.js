@@ -4,7 +4,7 @@ let bilangan = 0;
    
     function maju() {
       bilangan++;
-      tia.innerHTML = count;
+      tia.innerHTML = bilangan;
     }
 
     function mundur() {
