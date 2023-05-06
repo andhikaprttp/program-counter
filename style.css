@@ -22,5 +22,5 @@ main {
 
 .main-btn {
   margin: 1rem;
-  justify-content: center;
+  width: 350px;
 }
