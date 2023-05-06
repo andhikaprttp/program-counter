@@ -7,24 +7,24 @@
   <title>Counter Bilangan</title>
 </head>
 <body>
-  	<h1 id="counter">0</h1>
+  <h1 id="counter">0</h1>
 
-	<button onclick="increment()">Tambah</button>
-	<button onclick="decrement()">Kurang</button>
-  
-  	<script>
-		var count = 0;
-		var counter = document.getElementById("counter");
+  <button onclick="increment()">Tambah</button>
+  <button onclick="decrement()">Kurang</button>
 
-		function increment() {
-			count++;
-			counter.innerHTML = count;
-		}
+  <script>
+    var count = 0;
+    var counter = document.getElementById("counter");
 
-		function decrement() {
-			count--;
-			counter.innerHTML = count;
-		}
-	</script>
+    function increment() {
+      count++;
+      counter.innerHTML = count;
+    }
+
+    function decrement() {
+      count--;
+      counter.innerHTML = count;
+    }
+  </script>
 </body>
 </html>
