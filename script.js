@@ -3,7 +3,7 @@ let count = 0;
 
     function increment() {
       count++;
-      counter.innerHTML = count;
+      tia.innerHTML = count;
     }
 
     function decrement() {
