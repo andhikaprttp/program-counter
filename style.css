@@ -15,4 +15,5 @@ main {
   background-color: #bd2c2d;
   padding: 8px;
   border-radius: 50px;
+  justify-content: center;
 }
