@@ -12,7 +12,4 @@ let count = 0;
       tia.innerHTML = count;
     }
     
-    function reset() {
-      count = 0;
-      tia.innerHTML = count;
-    }
+    
