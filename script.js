@@ -3,7 +3,7 @@ let bilangan = 0;
    
    
     function maju() {
-      count++;
+      bilangan++;
       tia.innerHTML = count;
     }
 
