@@ -10,3 +10,5 @@ let count = 0;
       count--;
       tia.innerHTML = count;
     }
+    
+    function 
