@@ -9,7 +9,7 @@ let bilangan = 0;
 
     function mundur() {
       bilangan--;
-      tia.innerHTML = count;
+      tia.innerHTML = bilangan;
     }
     
     
