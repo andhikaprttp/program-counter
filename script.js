@@ -8,7 +8,7 @@ let bilangan = 0;
     }
 
     function mundur() {
-      count--;
+      bilangan--;
       tia.innerHTML = count;
     }
     
