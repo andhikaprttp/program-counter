@@ -8,5 +8,5 @@ let count = 0;
 
     function decrement() {
       count--;
-      counter.innerHTML = count;
+      tia.innerHTML = count;
     }
