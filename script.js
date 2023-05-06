@@ -1,5 +1,5 @@
 let count = 0;
-    let counter = document.getElementById("dhika");
+    let tia = document.getElementById("dhika");
 
     function increment() {
       count++;
