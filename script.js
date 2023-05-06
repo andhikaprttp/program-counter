@@ -11,4 +11,7 @@ let count = 0;
       tia.innerHTML = count;
     }
     
-    function 
+    function reset() {
+      count = 0;
+      tia.innerHTML = count;
+    }
