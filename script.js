@@ -1,4 +1,4 @@
-let count = 0;
+let bilangan = 0;
     let tia = document.getElementById("dhika");
    
    
