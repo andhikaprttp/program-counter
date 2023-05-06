@@ -7,7 +7,7 @@ let count = 0;
       tia.innerHTML = count;
     }
 
-    function decrement() {
+    function mundur() {
       count--;
       tia.innerHTML = count;
     }
