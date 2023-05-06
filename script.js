@@ -3,10 +3,10 @@ let count = 0;
 
     function increment() {
       count++;
-      awal.innerHTML = count;
+      counter.innerHTML = count;
     }
 
     function decrement() {
       count--;
-      awal.innerHTML = count;
+      counter.innerHTML = count;
     }
