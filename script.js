@@ -1,4 +1,4 @@
-// andhika
+// andhika pratama putra
 let bilangan = 0;
     let tia = document.getElementById("dhika");
    
